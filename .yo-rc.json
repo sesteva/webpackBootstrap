@@ -1,0 +1,11 @@
+{
+  "generator-react-webpack": {
+    "app-name": "webpackAndBootstrap",
+    "architecture": "flux",
+    "styles-language": "sass",
+    "component-suffix": "js",
+    "appName": "webpackAndBootstrap",
+    "style": "sass",
+    "postcss": true
+  }
+}
